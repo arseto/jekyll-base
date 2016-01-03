@@ -32,7 +32,7 @@ On the positive side though, I learned, at least, one lifetime skill as a progra
 
 <img src="http://www.netsolutionsindia.com/img/agile-methodology.jpg" />
 
-Now, this is an entirely different method of working and collaboration than mentioned before. Quoting _Agile Manifesto_:
+Now, this is an entirely different method of working and collaboration than mentioned before. Quoting [Agile Manifesto](http://agilemanifesto.org/) :
 
 >**Individuals and interactions** over processes and tools,
 >**Working software** over comprehensive documentation,
