@@ -25,3 +25,16 @@ _Pre sales and promises comes first, reality of development comes later_. With l
 Because of the lack of development knowledge of most of the sales person, time estimation promised to the client, or even the system proposed, the entire project can diverge from the original quotation. This gap in the process can severely impact the actual resource and timeline of the project.
 
 _Sc**w third party libraries, we'll create our very own library_. Even it will take considerable amount of resource (either research time or man power). This way again, the developer will have complete control and responsibility over the library. But mainly this is done for minimizing initial cost. But in my opinion the total cost for creating and maintaining a redundant library is greater. Again, this is arguable, not all company has the same policy, and my old employer seems to have this one on.
+
+On the positive side though, I learned, at least, one lifetime skill as a programmer there. That is, I'd like to call it _'code sense'_. It's actually not that special though. Any programmer with decent experience will almost certainly have it. For this matter, I'd like to discuss this in another post, for that topic can be another long post.
+
+**A New Entrance to the Agile Process**
+
+<img src="http://www.netsolutionsindia.com/img/agile-methodology.jpg" />
+
+Now, this is an entirely different method of working and collaboration than mentioned before. Quoting _Agile Manifesto_:
+
+>**Individuals and interactions** over processes and tools,
+>**Working software** over comprehensive documentation,
+>**Customer collaboration** over contract negotiation,
+>**Responding to change** over following a plan
