@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A New Take: My Entrance to Agile Process"
+title:  "A New Take: My Entrance to Agile Process (1)"
 date:   2015-12-27 11:32:40
 categories: opinion
 ---
@@ -28,13 +28,4 @@ _Sc**w third party libraries, we'll create our very own library_. Even it will t
 
 On the positive side though, I learned, at least, one lifetime skill as a programmer there. That is, I'd like to call it _'code sense'_. It's actually not that special though. Any programmer with decent experience will almost certainly have it. For this matter, I'd like to discuss this in another post, for that topic can be another long post.
 
-**A New Entrance to the Agile Process**
-
-<img src="http://www.netsolutionsindia.com/img/agile-methodology.jpg" />
-
-Now, this is an entirely different method of working and collaboration than mentioned before. Quoting [Agile Manifesto](http://agilemanifesto.org/) :
-
->**Individuals and interactions** over processes and tools,
->**Working software** over comprehensive documentation,
->**Customer collaboration** over contract negotiation,
->**Responding to change** over following a plan
+_to be continued..._
